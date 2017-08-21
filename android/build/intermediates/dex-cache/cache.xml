@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Android\project\StagOverheat\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="D:\Android\project\StagOverheat\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.0.1_4f5a7f1ede889aca7b747b1899691b4094664f48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\project\StagOverheat\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="D:\Android\project\StagOverheat\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.0.1_17c8e41285c4484231e7dd5db84033049d779faf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TEJA NAX GAWL\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\Android\project\StagOverheat\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_6dc6d6b83ff63c702f98bfce025c9182c1e8ab85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TEJA NAX GAWL\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\Android\project\StagOverheat\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_69650269f7b7b7e4fe4337928052c6f62123cf07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TEJA NAX GAWL\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="D:\Android\project\StagOverheat\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_fb152038f429fd27dde8b7891aca32d53cfe1589.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\project\StagOverheat\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.47.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="576b5113887747a7592650ae14d980e1c57983c4">
+        <dex dex="D:\Android\project\StagOverheat\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.47.1_784891ef47519d46f1266d7cb57a55b5881e7419.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\project\StagOverheat\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\Android\project\StagOverheat\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_16c9e197cb47c748f03b09da55cc9e932681220d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TEJA NAX GAWL\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="D:\Android\project\StagOverheat\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_b9a7359be100406053630b821b06f068d218970f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\project\StagOverheat\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="D:\Android\project\StagOverheat\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.0.1_055caed67314ab51b696e0d825d5b5faebf33fb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TEJA NAX GAWL\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="D:\Android\project\StagOverheat\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_2bf68590bf0ffc3e5e78a22d45915174b2c06dfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\project\StagOverheat\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="D:\Android\project\StagOverheat\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.0.1_0957875e6279975b0e066935028c79f028c8422e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TEJA NAX GAWL\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="D:\Android\project\StagOverheat\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_7d660d2d29b25437a2606927df622d8b2ea30c6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\project\StagOverheat\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\Android\project\StagOverheat\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_ae0c021013c28c6bbc054ab0eee39119aeba3ddc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\project\StagOverheat\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="D:\Android\project\StagOverheat\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_a380a5d687097078d25be018c3a95ae222a69e6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\project\StagOverheat\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\Android\project\StagOverheat\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_99640b6c4d46cb07f08c6649000f6676839029d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\project\StagOverheat\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="D:\Android\project\StagOverheat\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.0.1_2d47dae4d7569163d1f011aafd911864f6e533a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TEJA NAX GAWL\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="D:\Android\project\StagOverheat\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_fff267ad87fa6fab7fb4fbd967e80dbc79e79412.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\project\StagOverheat\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="D:\Android\project\StagOverheat\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_61e827971749f8b9249367274f257aebe8d1c16f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\project\StagOverheat\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="D:\Android\project\StagOverheat\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.0.1_57b5ef0505be89bb8a1567621a253fa5b009789b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\Android\project\StagOverheat\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_9792d51791d92eddc0d9758885c1364396bdbf7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\project\StagOverheat\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.47.1\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="D:\Android\project\StagOverheat\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_8f9366bc96759eecabd31fb850f4b297141e8849.jar" />
+    </item>
+
+</items>
